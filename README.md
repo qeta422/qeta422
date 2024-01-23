@@ -9,7 +9,7 @@ I am a beginner front-end Web Developer with an educational experience. My exper
 * 🌍  I'm based in Tbilisi/Georgia
 * 🖥️  See my portfolio at [...](http://dsnjd)
 * ✉️  You can contact me at [qetafetviashvili123@gmail.com](mailto:qetafetviashvili123@gmail.com)
-* 🚀  I'm currently working on [EduLine]([https://edu-line.netlify.app/])
+* 🚀  I'm currently working on [EduLine](https://edu-line.netlify.app/)
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  can create a website UI/UX
 
