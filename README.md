@@ -6,6 +6,20 @@ Front-End Web Developer
 
 I am a beginner front-end Web Developer with an educational experience. My experience includes developing responsive websites from working with JavaScript, CSS(sass), and HTML. Currently mastering React. I have already completed several relative courses and I'm willing to learn more. I consider myself to be a person who has a high sense of responsibility, is proactive, pays attention to details and is well-organized problem-solver, capable of working independently and in a team. I am thrilled to continue building up my skills in this field as well as Always open for interesting offers to improve myself. Feel free to contact me.
 
+## Projects
+
+### Project 1: [Project Name 1](Link to Project 1)
+[![Project Name 1](https://img.shields.io/badge/Project%20Name%201-Check%20it%20out-brightgreen)](Link to Project 1)
+Description of Project 1.
+
+### Project 2: [Project Name 2](Link to Project 2)
+[![Project Name 2](https://img.shields.io/badge/Project%20Name%202-Check%20it%20out-brightgreen)](Link to Project 2)
+Description of Project 2.
+
+### Project 3: [Project Name 3](Link to Project 3)
+[![Project Name 3](https://img.shields.io/badge/Project%20Name%203-Check%20it%20out-brightgreen)](Link to Project 3)
+Description of Project 3.
+
 | Project | Description | Demo |
 | --- | --- | --- |
 | [Project Name 1](Link to Project 1) | Short description of Project 1 | [Demo](Link to Demo 1) |
