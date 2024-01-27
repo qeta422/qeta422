@@ -25,6 +25,8 @@ I am a beginner front-end Web Developer with an educational experience. My exper
 - [Demo](Link to Demo 3)
 
 
+
+
 | Project | Description | Demo |
 | --- | --- | --- |
 | [Project Name 1](Link to Project 1) | Short description of Project 1 | [Demo](Link to Demo 1) |
