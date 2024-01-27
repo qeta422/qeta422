@@ -10,7 +10,7 @@ I am a beginner front-end Web Developer with an educational experience. My exper
 ## Projects
 
 #### 🌐 [Travel]
-- Web application for travel, focused on sass/responsive functionality
+- Web application for traveling, focused on sass/responsive functionality
 - [Demo] (https://sasswebtravel.netlify.app/)
 
 #### 🚀 [EduLine]
