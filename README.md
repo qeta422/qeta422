@@ -24,13 +24,14 @@ I am a beginner front-end Web Developer with an educational experience. My exper
 - Brief description of Project 3
 - [Demo](Link to Demo 3)
 </br>
+</br>
 
 | Project | Description | Demo |
 | --- | --- | --- |
 | [Project Name 1](Link to Project 1) | Short description of Project 1 | [Demo](Link to Demo 1) |
 | [Project Name 2](Link to Project 2) | Short description of Project 2 | [Demo](Link to Demo 2) |
 | [Project Name 3](Link to Project 3) | Short description of Project 3 | [Demo](Link to Demo 3) |
-
+</br>
 
 * 🌍  I'm based in Tbilisi/Georgia
 * 🖥️  See my portfolio at [...](http://dsnjd)
