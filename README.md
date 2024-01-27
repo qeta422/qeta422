@@ -23,9 +23,7 @@ I am a beginner front-end Web Developer with an educational experience. My exper
 ![Project Name 3](Image URL 3)
 - Brief description of Project 3
 - [Demo](Link to Demo 3)
-
-
-
+</br>
 
 | Project | Description | Demo |
 | --- | --- | --- |
