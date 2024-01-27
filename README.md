@@ -9,25 +9,25 @@ I am a beginner front-end Web Developer with an educational experience. My exper
 
 ## Projects
 
-#### 🚀 [Project Name 1]
-- Brief description of Project 1
-- [Demo]
+#### 🌐 [Travel]
+- Web application for travel, focused on sass/responsive functionality
+- [Demo] (https://sasswebtravel.netlify.app/)
 
-#### 🌐 [Project Name 2]
-- Brief description of Project 2
-- [Demo]
+#### 🚀 [EduLine]
+- A multiple-page website for an educational purpose. Uses Html, CSS and JS
+- [Demo] (https://edu-line.netlify.app/)
 
-#### 🎨 [Project Name 3]
+#### 🎨 [SkillSwap]
 - Brief description of Project 3
-- [Demo]
+- [Demo] (https://skillsswap.netlify.app/)
 </br>
 </br>
 
 | Project | Description | Demo |
 | --- | --- | --- |
-| [Project Name 1](Link to Project 1) | Short description of Project 1 | [Demo](Link to Demo 1) |
-| [Project Name 2](Link to Project 2) | Short description of Project 2 | [Demo](Link to Demo 2) |
-| [Project Name 3](Link to Project 3) | Short description of Project 3 | [Demo](Link to Demo 3) |
+| [RGB  game] | A game built with javascript to guess a color depending on it's RGB hash code | [Demo](https://rgb-color-code-game.netlify.app/) |
+| [10-js projects] | 10 projects focusing on JavaScript usage in simple applications | [Demo](https://10-jsproject.netlify.app/) |
+| [Project Name 3] | Short description of Project 3 | [Demo](Link to Demo 3) |
 </br>
 
 * 🌍  I'm based in Tbilisi/Georgia
