@@ -27,7 +27,6 @@ I am a beginner front-end Web Developer with an educational experience. My exper
 | --- | --- | --- |
 | [RGB  game] | A game built with javascript to guess a color depending on it's RGB hash code | [Demo](https://rgb-color-code-game.netlify.app/) |
 | [10-js projects] | 10 projects focusing on JavaScript usage in simple applications | [Demo](https://10-jsproject.netlify.app/) |
-| [Project Name 3] | Short description of Project 3 | [Demo](Link to Demo 3) |
 </br>
 
 * 🌍  I'm based in Tbilisi/Georgia
