@@ -9,20 +9,17 @@ I am a beginner front-end Web Developer with an educational experience. My exper
 
 ## Projects
 
-#### 🚀 [Project Name 1](Link to Project 1)
-![Project Name 1](Image URL 1)
+#### 🚀 [Project Name 1]
 - Brief description of Project 1
-- [Demo](Link to Demo 1)
+- [Demo]
 
-#### 🌐 [Project Name 2](Link to Project 2)
-![Project Name 2](Image URL 2)
+#### 🌐 [Project Name 2]
 - Brief description of Project 2
-- [Demo](Link to Demo 2)
+- [Demo]
 
-#### 🎨 [Project Name 3](Link to Project 3)
-![Project Name 3](Image URL 3)
+#### 🎨 [Project Name 3]
 - Brief description of Project 3
-- [Demo](Link to Demo 3)
+- [Demo]
 </br>
 </br>
 
