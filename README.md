@@ -18,7 +18,7 @@ I am a beginner front-end Web Developer with an educational experience. My exper
 - [Demo] (https://edu-line.netlify.app/)
 
 #### 🎨 [SkillSwap]
-- Website to swap skills (Html, css, js)
+- A Website to swap skills (Html, css, js)
 - [Demo] (https://skillsswap.netlify.app/)
 </br>
 </br>
