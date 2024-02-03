@@ -14,7 +14,7 @@ I am a beginner front-end Web Developer with an educational experience. My exper
 - [Demo] (https://sasswebtravel.netlify.app/)
 
 #### 🚀 [EduLine]
-- A multiple-page website for an educational purpose. Uses Html, CSS and JS
+- A multiple-page website for an educational purpose. Uses Html, CSS(sass) and JS
 - [Demo] (https://edu-line.netlify.app/)
 
 #### 🎨 [SkillSwap]
