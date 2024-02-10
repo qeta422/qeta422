@@ -7,6 +7,14 @@ Front-End Web Developer
 I am a beginner front-end Web Developer with an educational experience. My experience includes developing responsive websites from working with JavaScript, CSS(sass), and HTML. Currently mastering React. I have already completed several relative courses and I'm willing to learn more. I consider myself to be a person who has a high sense of responsibility, is proactive, pays attention to details and is well-organized problem-solver, capable of working independently and in a team. I am thrilled to continue building up my skills in this field as well as always open for interesting offers to improve myself. Feel free to contact me.
 
 
+* 🌍  I'm based in Tbilisi/Georgia
+* 🖥️  See my portfolio at [...](http://dsnjd)
+* ✉️  You can contact me at [qetafetviashvili123@gmail.com](mailto:qetafetviashvili123@gmail.com)
+* 🚀  I'm currently working on [Travel](https://sasswebtravel.netlify.app/)
+* 🤝  I'm open to collaborating on interesting projects
+* ⚡  can create a website UI/UX
+
+
 ## Projects
 
 #### 🌐 [Travel]
@@ -32,13 +40,6 @@ I am a beginner front-end Web Developer with an educational experience. My exper
 | [RGB  game] | A game built with javascript to guess a color depending on it's RGB hash code | [Demo](https://rgb-color-code-game.netlify.app/) |
 | [10-js projects] | 10 projects focusing on JavaScript usage in simple applications | [Demo](https://10-jsproject.netlify.app/) |
 </br>
-
-* 🌍  I'm based in Tbilisi/Georgia
-* 🖥️  See my portfolio at [...](http://dsnjd)
-* ✉️  You can contact me at [qetafetviashvili123@gmail.com](mailto:qetafetviashvili123@gmail.com)
-* 🚀  I'm currently working on [Travel](https://sasswebtravel.netlify.app/)
-* 🤝  I'm open to collaborating on interesting projects
-* ⚡  can create a website UI/UX
 
 ### Skills
 
