@@ -39,7 +39,9 @@ I am a beginner front-end Web Developer with an educational experience. My exper
 | --- | --- | --- |
 | [10-js projects] | 10 projects focusing on JavaScript usage in simple applications | [Demo](https://10-jsproject.netlify.app/) |
 | [quiz app] | A simple quiz web application project built with JavaScript EventListeners and functions | [Demo]( https://quizzappy.netlify.app/) |
+| [products filter] | A JavaScript project of product page, where you can filter data with different search methods | [Demo](https://products-js-filter.netlify.app/) |
 | [RGB  game] | A game built with javascript to guess a color depending on it's RGB hash code | [Demo](https://rgb-color-code-game.netlify.app/) |
+
 </br>
 
 ### Skills
