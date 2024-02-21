@@ -22,16 +22,13 @@ I am a beginner front-end Web Developer with an educational experience. My exper
 - [Demo] (https://sasswebtravel.netlify.app/)
 
 - #### 🌍 [Gardening]
-- Website for garden lovers, focusing on sass structure
-- [Demo] (https://gardening-sample.netlify.app/)
+- Website for garden lovers, focusing on sass structure - [Demo] (https://gardening-sample.netlify.app/)
 
 #### 🚀 [EduLine]
-- A multiple-page website for an educational purpose. Uses Html, CSS(sass) and JS
-- [Demo] (https://edu-line.netlify.app/)
+- A multiple-page website for an educational purpose. Uses Html, CSS(sass) and JS - [Demo] (https://edu-line.netlify.app/)
 
 #### 🎨 [SkillSwap]
-- A Website to swap skills (Html, css, js)
-- [Demo] (https://skillsswap.netlify.app/)
+- A Website to swap skills (Html, css, js) - [Demo] (https://skillsswap.netlify.app/)
 </br>
 </br>
 
