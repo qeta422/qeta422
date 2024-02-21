@@ -21,7 +21,7 @@ I am a beginner front-end Web Developer with an educational experience. My exper
 - Web application for traveling, focused on sass/responsive functionality
 - [Demo] (https://sasswebtravel.netlify.app/)
 
-- #### 🌍 [Gardening]
+#### 🌍 [Gardening]
 - Website for garden lovers, focusing on sass structure - [Demo] (https://gardening-sample.netlify.app/)
 
 #### 🚀 [EduLine]
