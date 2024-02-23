@@ -36,9 +36,10 @@ I am a beginner front-end Web Developer with an educational experience. My exper
 | --- | --- | --- |
 | [Reaact-weather-app] | A weather app built using React JS | [Demo](https://w-app-react.netlify.app/) |
 | [YouTube-resource-gallery] | A YouTube resource gallery where you can save all helpful resource videos from YouTube | [Demo](https://youtube-resource-gallery.netlify.app/) |
-| [products filter] | A JavaScript project of product page, where you can filter data with different search methods | [Demo](https://products-js-filter.netlify.app/) |
+| [Products filter] | A JavaScript project of product page, where you can filter data with different search methods | [Demo](https://products-js-filter.netlify.app/) |
+| [Add to cart] | This is an E-commerce website project to add or remove desired items in the cart - created with React.js | [Demo](https://shop-and-cart.netlify.app/) |
 | [10-js projects] | 10 projects focusing on JavaScript usage in simple applications | [Demo](https://10-jsproject.netlify.app/) |
-| [quiz app] | A simple quiz web application project built with JavaScript EventListeners and functions | [Demo]( https://quizzappy.netlify.app/) |
+| [Quiz app] | A simple quiz web application project built with JavaScript EventListeners and functions | [Demo]( https://quizzappy.netlify.app/) |
 | [RGB  game] | A game built with javascript to guess a color depending on it's RGB hash code | [Demo](https://rgb-color-code-game.netlify.app/) |
 
 </br>
