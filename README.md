@@ -18,17 +18,16 @@ I am a beginner front-end Web Developer with an educational experience. My exper
 ## Web Projects
 
 #### 🌐 [Travel]
-- Web application for traveling, focused on sass/responsive functionality
-- [Demo] (https://sasswebtravel.netlify.app/)
+- Web application for traveling, focused on sass/responsive functionality (https://sasswebtravel.netlify.app/)
 
 #### 🌍 [Seller]
-- A company website, which is selling homes around the world, build is focused on the usage of css grids - [Demo] (https://sellernexter.netlify.app/)
+- A company website, which is selling homes around the world, build is focused on the usage of css grids (https://sellernexter.netlify.app/)
 
 #### 🚀 [EduLine]
-- A multiple-page website for an educational purpose. Uses Html, CSS(sass) and JS - [Demo] (https://edu-line.netlify.app/)
+- A multiple-page website for an educational purpose. Uses Html, CSS(sass) and JS (https://edu-line.netlify.app/)
 
 #### 🎨 [SkillSwap]
-- A Website to swap skills (Html, css, js) - [Demo] (https://skillsswap.netlify.app/)
+- A Website to swap skills (Html, css, js) (https://skillsswap.netlify.app/)
 </br>
 
 | React Apps | Description | Demo |
