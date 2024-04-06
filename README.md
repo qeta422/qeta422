@@ -8,9 +8,9 @@ Front-end Web Developer with an educational and freelancing experience. My exper
 
 
 * 🌍  I'm based in Tbilisi/Georgia
-* 🖥️  See my portfolio at [portfolio](https://portfolio-qeta.netlify.app/)
+* 🖥️  See my portfolio at [portfolio](https://asteroidrocketgame.netlify.app/)
 * ✉️  You can contact me at [qetafetviashvili123@gmail.com](mailto:qetafetviashvili123@gmail.com)
-* 🚀  I'm currently working on [E-commerce web](https://shop-and-cart.netlify.app/)
+* 🚀  I'm currently working on [Asteroids-game](https://shop-and-cart.netlify.app/)
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  can create a website UI/UX
 
