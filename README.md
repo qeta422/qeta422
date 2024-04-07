@@ -3,9 +3,8 @@ Hi! I'm Qeta :wave:
 
 A Front-end Web Developer with an educational and freelancing experience. To this day, I continue to enroll in courses on self-learning platforms one after another while building interesting projects, as I am committed to advancing my career and skill set without pause.
 
-* 🌍  I'm based in Tbilisi/Georgia
 * 🖥️  See my portfolio at [portfolio](https://portfolio-qeta.netlify.app/)
-* ✉️  You can contact me at [qetafetviashvili123@gmail.com](mailto:qetafetviashvili123@gmail.com)
+* ✉️  You can contact me for a quick response at [Linkedin](https://www.linkedin.com/in/qeta-fetviashvili/)
 * 🚀  I'm currently working on [Asteroids-game](https://asteroidrocketgame.netlify.app/)
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  can create a website UI/UX
