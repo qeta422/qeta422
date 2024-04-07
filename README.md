@@ -1,10 +1,7 @@
 Hi! I'm Qeta :wave:
 ============================================================================================================================
 
-Front-End Web Developer
------------------------
-
-Front-end Web Developer with an educational and freelancing experience. To this day, I continue to enroll in courses on self-learning platforms one after another while building interesting projects, as I am committed to advancing my career and skill set without pause.
+A Front-end Web Developer with an educational and freelancing experience. To this day, I continue to enroll in courses on self-learning platforms one after another while building interesting projects, as I am committed to advancing my career and skill set without pause.
 
 * 🌍  I'm based in Tbilisi/Georgia
 * 🖥️  See my portfolio at [portfolio](https://portfolio-qeta.netlify.app/)
