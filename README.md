@@ -15,7 +15,7 @@ Front-end Web Developer with an educational and freelancing experience. To this 
 
 </br>
 
-### Skill toolbox
+### 📦 Skill toolbox
 
 Front-End:
 <p align="left">
