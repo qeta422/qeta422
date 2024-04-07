@@ -4,8 +4,7 @@ Hi! I'm Qeta :wave:
 Front-End Web Developer
 -----------------------
 
-Front-end Web Developer with an educational and freelancing experience. My experience includes developing responsive websites from working with JavaScript, CSS(sass), and HTML. Currently mastering React. I have already completed several relative courses and I'm willing to learn more. I consider myself to be a person who has a high sense of responsibility, is proactive, pays attention to details and is well-organized problem-solver, capable of working independently and in a team. I am thrilled to continue building up my skills in this field as well as always open for interesting offers to improve myself. Feel free to contact me.
-
+Front-end Web Developer with an educational and freelancing experience. To this day, I continue to enroll in courses on self-learning platforms one after another while building interesting projects, as I am committed to advancing my career and skill set without pause.
 
 * 🌍  I'm based in Tbilisi/Georgia
 * 🖥️  See my portfolio at [portfolio](https://portfolio-qeta.netlify.app/)
