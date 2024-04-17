@@ -45,13 +45,6 @@ UX-UI:
 
 #### 🎨 [SkillSwap]
 - A Website to swap skills (Html, css, js) (https://skillsswap.netlify.app/)
-</br>
-
-| React Apps | Description | Demo |
-| --- | --- | --- |
-| [React-weather-app] | A weather app built using React JS | [Demo](https://w-app-react.netlify.app/) |
-| [Add to cart] | This is an E-commerce website project to add or remove desired items in the cart - created with React.js | [Demo](https://shop-and-cart.netlify.app/) |
-
 
 </br>
 
@@ -66,6 +59,12 @@ UX-UI:
 | [Guess-my-number-game] | A game built with javascript for user to guess a number between 1 and 20 | [Demo](https://guessmy-number-game.netlify.app/) |
 | [RGB  game] | A game built with javascript to guess a color depending on it's RGB hash code | [Demo](https://rgb-color-code-game.netlify.app/) |
 
+</br>
+
+| React Apps | Description | Demo |
+| --- | --- | --- |
+| [React-weather-app] | A weather app built using React JS | [Demo](https://w-app-react.netlify.app/) |
+| [Add to cart] | This is an E-commerce website project to add or remove desired items in the cart - created with React.js | [Demo](https://shop-and-cart.netlify.app/) |
 
 ### Badges
 
