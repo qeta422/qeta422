@@ -63,6 +63,7 @@ UX-UI:
 
 | React Apps | Description | Demo |
 | --- | --- | --- |
+| [React-To-Do-app] | A To-Do app with advanced features built using React | [Demo](https://w-app-react.netlify.app/) |
 | [React-weather-app] | A weather app built using React JS | [Demo](https://w-app-react.netlify.app/) |
 | [Add to cart] | This is an E-commerce website project to add or remove desired items in the cart - created with React.js | [Demo](https://shop-and-cart.netlify.app/) |
 
